@@ -5,6 +5,10 @@ Tutte le modifiche rilevanti a questo plugin sono documentate in questo file.
 Il formato è basato su [Keep a Changelog](https://keepachangelog.com/it/1.1.0/)
 e questo progetto aderisce al [Semantic Versioning](https://semver.org/lang/it/).
 
+## 1.2.2
+
+- Fix: gli endpoint AJAX pubblici di log e report ignorano parametri non scalari (rispondono 400 invece di warning che rompono il JSON).
+
 ## [1.2.1] - 2026-10-26
 
 ### Fixed
