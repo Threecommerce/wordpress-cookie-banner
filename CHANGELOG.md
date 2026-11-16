@@ -9,6 +9,12 @@ e questo progetto aderisce al [Semantic Versioning](https://semver.org/lang/it/)
 
 - Fix: gli endpoint AJAX pubblici di log e report ignorano parametri non scalari (rispondono 400 invece di warning che rompono il JSON).
 
+## [1.2.3] - 2026-11-16
+
+### Changed
+- Dizionario dei cookie noti (durate e finalità assegnate dalla scansione) e segnaposto dei campi *Elenco cookie* e *Pagine da visitare* traducibili: con il sito in inglese si salvano e si mostrano in inglese (traduzioni en_US aggiunte).
+- Descrizione del plugin tradotta in inglese (en_US).
+
 ## [1.2.1] - 2026-10-26
 
 ### Fixed
