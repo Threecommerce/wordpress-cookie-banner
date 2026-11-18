@@ -18,7 +18,7 @@ A lightweight, self-contained GDPR cookie consent banner for WordPress: no exter
 - **Page cache friendly** (LiteSpeed, WP Super Cache...): the page is the same for everyone, the choice lives only in the cookie read by the browser.
 - **Automatic cookie scanner**: every night the plugin visits the home page and the pages you list like a new visitor and reads the cookies set by the server (HttpOnly too); the banner also reports the names of the cookies found in the browser. A dictionary classifies the common ones.
 - Optional **consent log** to prove consent (GDPR art. 7.1), with a filterable list and CSV export.
-- **Translated cookie policy link** with WPML or Polylang. Accessible dialog (focus management, `Esc`, visible focus, reduced motion). Translatable texts, English included.
+- **Translated cookie policy link** with WPML or Polylang. Accessible dialog (focus management, `Esc`, visible focus, reduced motion). Translatable texts, English included: with WordPress in English the settings pages and the duration and purpose of the cookies recognised by the scanner are in English too.
 
 ![Preferences panel with cookie categories and the cookie details](images/cookie-banner-preferences.png)
 
