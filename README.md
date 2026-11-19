@@ -4,7 +4,7 @@ A lightweight, self-contained GDPR cookie consent banner for WordPress: no exter
 
 ![Cookie consent banner on a WordPress site with Reject, Customize and Accept all buttons](images/cookie-banner-storefront.png)
 
-**Compatibility:** WordPress 6.0+ · PHP 8.1 – 8.4
+**Compatibility:** WordPress 6.0+ · PHP 8.1 – 8.5
 **License:** free · **Current version:** see [Releases](../../releases)
 
 ## Features
@@ -31,7 +31,7 @@ A lightweight, self-contained GDPR cookie consent banner for WordPress: no exter
 ## Requirements
 
 - WordPress 6.0 or newer
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 
 ## Installation
 
